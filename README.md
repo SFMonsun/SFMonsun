@@ -6,7 +6,6 @@ I'm currently studying **Electrical Engineering at the Hochschule für Angewandt
 
 ## 🔧 What You'll Find in This Repository
 
-This profile brings together a variety of engineering and development projects, including:
 
 ### 🖥️ **Python Projects**
 
@@ -22,7 +21,7 @@ This profile brings together a variety of engineering and development projects, 
 
 ### 🛠️ **PCB Design Projects**
 
-* Fully custom PCB designs created with professional EDA tools
+* Fully custom PCB designs created with KICAD
 * Schematics, board layouts, and hardware prototypes
 * Mixed-signal, power circuits, and embedded electronics
 
@@ -49,8 +48,8 @@ I’m passionate about **embedded systems, electronics design, and hardware-soft
 
 If you'd like to connect or learn more about any of my work:
 
-* **LinkedIn:** *(Add your link here)*
-* **Email:** *(Add your contact here)*
+* **LinkedIn:** *Till pending will add later*
+* **Email:** *Till pending will add later)*
 
 ---
 
